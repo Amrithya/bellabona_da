@@ -1,0 +1,1001 @@
+date,diet,city,id,name,category,price
+2024-05-01T00:04:34Z,Vegan,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-01T21:45:03Z,Gluten-free,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-05-01T22:13:14Z,Meat,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-02T01:04:56Z,Vegan,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-02T05:45:23Z,Vegetarian,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-02T07:25:40Z,Vegetarian,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-05-02T08:10:22Z,Gluten-free,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-05-02T13:29:33Z,Vegan,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-02T19:24:52Z,Meat,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-02T23:49:03Z,Meat,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-03T08:41:26Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-03T09:06:51Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-05-03T10:26:36Z,Meat,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-03T11:20:33Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-05-04T02:15:28Z,Vegetarian,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-04T02:48:29Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-04T06:30:17Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-05-04T08:14:40Z,Vegan,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-04T13:08:16Z,Gluten-free,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-05-04T19:30:23Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-04T19:52:58Z,Vegan,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-04T21:12:16Z,Vegan,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-05T16:21:02Z,Meat,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-05T22:08:40Z,Gluten-free,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-05T23:54:13Z,Vegetarian,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-06T07:48:57Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-06T10:24:48Z,Vegetarian,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-05-06T15:56:10Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-05-06T18:51:15Z,Meat,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-06T23:00:38Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-05-07T11:39:33Z,Vegetarian,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-05-07T16:14:15Z,Gluten-free,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-07T20:35:38Z,Vegetarian,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-07T22:10:20Z,Meat,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-05-07T22:28:32Z,Vegan,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-05-07T23:47:05Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-08T08:36:17Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-05-08T09:32:00Z,Meat,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-08T12:39:08Z,Vegan,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-08T20:40:40Z,Vegan,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-05-08T21:25:32Z,Meat,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-05-08T22:59:41Z,Vegetarian,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-05-08T23:31:44Z,Vegetarian,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-05-08T23:47:45Z,Vegetarian,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-09T07:29:48Z,Gluten-free,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-09T08:33:12Z,Meat,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-05-09T12:47:31Z,Meat,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-09T22:10:16Z,Meat,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-05-10T00:55:50Z,Vegetarian,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-10T04:29:16Z,Vegetarian,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-05-10T12:33:17Z,Gluten-free,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-10T15:02:53Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-10T16:01:41Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-10T16:14:03Z,Gluten-free,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-10T17:31:41Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-10T18:47:39Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-10T22:03:29Z,Meat,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-10T22:03:50Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-11T04:13:42Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-11T05:47:54Z,Vegan,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-05-11T09:21:28Z,Vegan,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-05-11T11:56:11Z,Gluten-free,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-11T12:27:28Z,Meat,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-11T19:59:07Z,Vegetarian,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-05-11T23:09:13Z,Gluten-free,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-05-12T06:20:10Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-05-12T14:47:04Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-05-12T23:26:00Z,Vegetarian,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-05-13T09:09:35Z,Vegetarian,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-13T14:50:11Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-14T03:23:59Z,Vegan,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-14T03:55:53Z,Meat,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-14T04:35:05Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-14T07:20:16Z,Meat,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-05-14T13:33:50Z,Gluten-free,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-05-15T03:23:43Z,Gluten-free,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-05-15T04:44:24Z,Meat,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-15T11:39:33Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-16T00:38:25Z,Gluten-free,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-16T07:53:22Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-16T11:06:46Z,Gluten-free,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-16T14:27:50Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-16T20:31:54Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-05-17T02:16:51Z,Vegetarian,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-05-17T03:07:19Z,Gluten-free,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-17T06:57:33Z,Vegan,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-17T10:14:18Z,Vegetarian,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-17T10:55:03Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-17T13:06:15Z,Gluten-free,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-05-17T17:51:32Z,Gluten-free,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-18T03:59:36Z,Vegetarian,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-18T04:43:50Z,Vegan,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-05-18T06:19:30Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-18T08:29:35Z,Vegetarian,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-18T22:06:52Z,Meat,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-05-19T02:46:40Z,Vegetarian,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-19T06:06:15Z,Vegetarian,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-19T11:37:44Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-05-19T17:29:03Z,Gluten-free,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-19T18:02:39Z,Gluten-free,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-20T00:08:05Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-20T02:29:42Z,Vegan,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-20T06:27:31Z,Vegetarian,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-20T12:10:07Z,Meat,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-21T04:56:53Z,Meat,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-05-21T09:51:25Z,Gluten-free,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-21T16:47:17Z,Vegan,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-05-22T08:14:42Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-05-22T13:11:26Z,Meat,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-22T15:12:34Z,Meat,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-22T23:02:29Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-05-23T02:26:24Z,Vegetarian,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-23T02:53:03Z,Vegan,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-05-23T03:30:08Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-23T07:24:09Z,Meat,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-23T08:40:31Z,Meat,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-05-23T11:43:15Z,Meat,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-23T17:19:58Z,Vegetarian,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-05-23T21:38:42Z,Vegan,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-23T22:15:31Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-24T00:38:48Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-05-24T01:52:06Z,Vegetarian,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-24T13:44:42Z,Meat,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-24T18:48:10Z,Gluten-free,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-24T20:50:28Z,Vegan,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-24T22:15:15Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-26T02:46:25Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-05-26T02:59:13Z,Vegan,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-26T03:58:41Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-05-26T05:46:43Z,Vegetarian,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-05-26T14:44:44Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-26T16:44:20Z,Vegan,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-26T17:36:16Z,Vegetarian,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-05-26T18:58:08Z,Gluten-free,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-05-26T20:14:20Z,Vegetarian,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-27T01:39:08Z,Gluten-free,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-27T04:55:34Z,Gluten-free,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-05-27T23:33:16Z,Vegan,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-28T01:23:23Z,Vegan,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-05-28T02:23:05Z,Vegetarian,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-28T04:22:32Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-05-28T06:38:05Z,Vegetarian,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-05-28T07:16:37Z,Gluten-free,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-05-28T10:38:11Z,Vegan,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-05-28T22:20:04Z,Vegetarian,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-29T09:01:04Z,Gluten-free,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-05-29T21:22:37Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-05-30T08:27:14Z,Meat,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-05-30T14:32:47Z,Vegan,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-30T17:01:03Z,Meat,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-05-30T19:36:50Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-05-30T23:00:01Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-05-31T05:07:18Z,Gluten-free,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-05-31T05:29:08Z,Vegetarian,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-05-31T05:29:20Z,Gluten-free,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-05-31T09:43:13Z,Meat,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-05-31T15:56:39Z,Gluten-free,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-05-31T18:18:20Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-01T03:14:15Z,Meat,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-01T07:08:53Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-01T09:01:02Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-01T16:38:40Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-01T22:22:20Z,Meat,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-02T00:22:31Z,Meat,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-02T03:40:31Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-02T05:01:30Z,Gluten-free,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-06-02T07:09:45Z,Meat,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-02T09:01:55Z,Gluten-free,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-02T09:06:28Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-06-02T09:10:35Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-02T14:03:13Z,Meat,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-02T18:31:49Z,Gluten-free,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-02T20:31:51Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-02T23:16:57Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-03T01:57:56Z,Meat,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-03T02:40:46Z,Gluten-free,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-03T11:21:02Z,Meat,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-04T03:01:35Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-04T03:44:06Z,Gluten-free,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-04T03:52:08Z,Vegan,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-04T07:33:33Z,Vegetarian,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-04T09:42:32Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-04T16:30:46Z,Gluten-free,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-04T22:44:06Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-04T22:51:44Z,Vegan,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-05T02:01:10Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-05T04:00:55Z,Vegan,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-05T10:07:16Z,Gluten-free,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-05T14:26:16Z,Vegan,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-06-05T16:15:57Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-05T21:14:05Z,Vegetarian,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-05T23:16:50Z,Vegetarian,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-05T23:22:39Z,Vegan,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-06T02:41:38Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-06T04:26:26Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-06T11:27:13Z,Vegetarian,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-06-06T14:36:22Z,Vegan,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-06T14:38:28Z,Vegetarian,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-07T05:39:00Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-07T08:54:47Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-07T11:45:21Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-07T11:57:04Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-07T14:39:27Z,Meat,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-06-07T15:56:23Z,Vegetarian,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-07T19:52:51Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-07T20:45:28Z,Gluten-free,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-08T17:45:04Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-06-08T20:49:21Z,Meat,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-09T08:25:31Z,Gluten-free,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-09T19:48:30Z,Meat,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-06-09T20:29:11Z,Meat,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-10T05:07:51Z,Gluten-free,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-10T17:09:06Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-10T19:56:11Z,Vegan,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-06-10T20:28:03Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-06-10T22:38:40Z,Gluten-free,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-11T00:38:58Z,Vegetarian,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-11T05:25:43Z,Gluten-free,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-11T06:45:38Z,Vegan,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-11T10:14:04Z,Vegetarian,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-11T12:56:25Z,Vegan,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-11T14:48:09Z,Gluten-free,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-11T20:23:01Z,Vegan,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-11T21:09:49Z,Gluten-free,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-11T23:25:54Z,Gluten-free,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-12T02:15:07Z,Vegetarian,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-12T07:24:19Z,Vegan,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-12T08:42:36Z,Meat,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-12T12:17:38Z,Vegetarian,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-12T14:25:51Z,Meat,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-12T18:55:36Z,Vegan,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-12T22:01:58Z,Vegetarian,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-12T22:13:54Z,Gluten-free,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-12T23:17:15Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-13T00:53:48Z,Gluten-free,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-13T06:19:05Z,Meat,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-13T09:18:23Z,Gluten-free,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-13T10:59:28Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-13T12:26:50Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-13T14:10:38Z,Vegetarian,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-14T07:17:13Z,Gluten-free,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-14T08:57:20Z,Gluten-free,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-14T09:36:49Z,Meat,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-14T10:49:32Z,Vegan,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-14T11:47:11Z,Gluten-free,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-14T15:00:53Z,Vegan,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-06-14T15:15:55Z,Vegan,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-14T21:42:29Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-14T22:05:41Z,Gluten-free,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-14T23:01:53Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-15T01:43:09Z,Vegan,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-15T06:54:15Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-15T16:14:00Z,Vegan,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-15T19:06:11Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-15T21:14:09Z,Vegetarian,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-15T21:16:53Z,Gluten-free,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-16T00:26:01Z,Meat,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-16T05:44:28Z,Vegan,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-17T07:10:37Z,Gluten-free,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-17T11:47:36Z,Vegan,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-17T19:42:03Z,Gluten-free,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-17T20:45:40Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-18T08:56:40Z,Vegetarian,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-18T10:35:15Z,Vegetarian,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-18T10:37:17Z,Vegetarian,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-18T15:28:23Z,Vegetarian,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-18T15:39:53Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-18T16:27:19Z,Meat,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-18T22:39:26Z,Vegetarian,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-19T02:18:19Z,Vegan,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-19T03:17:37Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-19T07:24:11Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-19T10:23:18Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-19T15:26:43Z,Gluten-free,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-19T15:54:15Z,Meat,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-06-19T16:21:44Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-19T18:35:01Z,Vegetarian,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-19T22:14:48Z,Vegetarian,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-20T00:52:52Z,Gluten-free,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-06-20T03:01:13Z,Vegetarian,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-20T03:10:12Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-20T05:47:45Z,Vegetarian,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-20T06:00:25Z,Vegetarian,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-20T06:51:53Z,Vegan,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-20T07:12:00Z,Vegetarian,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-20T08:38:30Z,Gluten-free,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-20T23:00:38Z,Meat,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-21T00:01:36Z,Vegan,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-21T01:09:57Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-21T01:41:14Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-21T05:57:26Z,Gluten-free,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-06-21T22:50:13Z,Gluten-free,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-22T01:49:48Z,Gluten-free,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-22T05:58:04Z,Gluten-free,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-06-22T06:32:10Z,Vegetarian,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-22T08:56:58Z,Meat,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-22T09:40:37Z,Vegan,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-22T11:03:10Z,Meat,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-22T14:37:22Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-06-23T07:26:53Z,Vegetarian,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-23T11:12:17Z,Vegetarian,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-23T16:23:00Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-23T18:28:37Z,Vegan,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-24T12:06:28Z,Vegetarian,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-24T16:51:06Z,Meat,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-24T21:13:43Z,Meat,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-25T00:22:55Z,Gluten-free,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-25T02:10:48Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-25T03:38:00Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-25T04:45:39Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-25T07:36:34Z,Vegan,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-25T08:51:18Z,Vegetarian,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-25T14:48:32Z,Gluten-free,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-25T17:23:57Z,Gluten-free,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-25T18:05:21Z,Vegan,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-25T19:45:12Z,Vegetarian,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-26T10:26:45Z,Vegan,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-26T17:30:54Z,Vegan,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-27T02:56:47Z,Gluten-free,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-27T08:58:47Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-27T10:35:14Z,Vegetarian,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-27T11:58:27Z,Vegan,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-06-27T16:56:54Z,Gluten-free,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-27T18:30:58Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-27T20:03:46Z,Gluten-free,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-27T20:28:02Z,Vegan,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-28T06:56:09Z,Gluten-free,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-06-28T09:34:45Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-06-28T11:04:04Z,Vegan,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-29T01:58:20Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-06-29T04:58:49Z,Vegan,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-06-29T10:41:53Z,Vegan,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-06-29T15:52:51Z,Vegetarian,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-29T20:24:01Z,Meat,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-30T04:10:24Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-30T11:30:26Z,Gluten-free,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-06-30T15:24:26Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-06-30T18:30:29Z,Vegan,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-06-30T22:50:06Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-07-01T00:43:40Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-07-01T03:16:39Z,Gluten-free,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-01T09:41:56Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-07-01T11:30:47Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-01T18:06:38Z,Vegetarian,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-07-01T23:14:51Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-02T01:08:10Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-02T08:22:03Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-02T12:13:47Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-03T09:30:29Z,Gluten-free,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-03T20:56:07Z,Vegan,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-03T21:22:48Z,Meat,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-07-04T03:00:26Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-07-04T05:26:22Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-07-04T07:52:46Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-07-04T07:58:36Z,Vegetarian,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-07-04T10:02:45Z,Vegetarian,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-04T11:27:19Z,Gluten-free,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-04T11:28:49Z,Meat,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-07-04T15:07:08Z,Vegetarian,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-04T17:31:42Z,Vegetarian,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-07-04T19:14:57Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-04T19:15:24Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-04T23:02:17Z,Vegetarian,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-05T10:44:26Z,Vegetarian,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-07-05T12:22:15Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-05T20:26:23Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-05T23:27:56Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-07-06T00:12:57Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-06T01:21:49Z,Meat,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-06T05:27:28Z,Meat,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-07-06T15:32:43Z,Vegan,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-07-06T20:28:58Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-07T04:04:15Z,Vegetarian,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-07T07:18:21Z,Vegetarian,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-07-07T16:02:14Z,Vegetarian,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-07T17:26:36Z,Vegetarian,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-07-08T03:29:24Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-07-08T04:03:22Z,Meat,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-08T07:32:48Z,Meat,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-08T13:35:47Z,Vegetarian,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-07-08T18:54:08Z,Gluten-free,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-07-08T22:12:01Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-09T04:51:43Z,Gluten-free,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-09T05:27:22Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-09T09:20:45Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-09T14:41:20Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-07-09T15:24:05Z,Gluten-free,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-09T18:10:05Z,Vegan,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-09T22:54:33Z,Vegetarian,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-10T02:12:35Z,Vegetarian,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-07-10T09:35:41Z,Gluten-free,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-07-10T15:23:05Z,Meat,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-07-11T03:41:12Z,Gluten-free,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-07-11T04:40:17Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-11T05:16:33Z,Vegan,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-07-11T11:08:37Z,Gluten-free,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-07-11T16:55:56Z,Gluten-free,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-07-11T19:31:08Z,Meat,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-11T20:14:59Z,Meat,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-11T20:40:50Z,Gluten-free,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-07-12T03:11:20Z,Gluten-free,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-12T09:47:25Z,Vegan,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-12T18:02:07Z,Vegetarian,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-07-12T21:40:21Z,Gluten-free,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-13T08:58:34Z,Gluten-free,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-13T10:19:04Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-13T19:03:58Z,Meat,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-13T22:41:16Z,Gluten-free,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-13T23:10:29Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-07-14T10:45:08Z,Meat,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-14T22:34:56Z,Meat,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-07-15T00:12:32Z,Meat,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-15T00:20:45Z,Meat,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-15T00:30:34Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-07-15T07:06:00Z,Vegetarian,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-07-15T15:23:08Z,Meat,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-07-16T10:17:45Z,Vegan,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-16T11:32:37Z,Meat,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-07-16T11:43:08Z,Vegetarian,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-16T15:26:37Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-07-16T19:48:05Z,Gluten-free,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-07-16T21:06:05Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-16T22:18:35Z,Meat,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-16T23:41:43Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-07-17T01:00:06Z,Meat,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-07-17T16:19:38Z,Vegan,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-07-17T16:54:31Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-07-17T22:07:53Z,Vegan,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-18T03:21:44Z,Vegan,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-07-18T03:29:25Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-07-18T04:02:32Z,Vegetarian,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-07-18T10:13:09Z,Vegetarian,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-18T16:18:29Z,Vegetarian,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-19T00:02:29Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-19T16:04:31Z,Meat,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-19T23:42:07Z,Vegetarian,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-20T00:17:48Z,Meat,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-07-20T00:52:28Z,Gluten-free,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-07-20T01:17:55Z,Vegan,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-07-20T04:55:53Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-20T07:00:59Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-07-20T15:53:18Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-07-20T22:50:52Z,Vegan,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-21T04:27:56Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-07-21T08:23:54Z,Vegan,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-07-21T20:39:22Z,Meat,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-23T10:15:04Z,Meat,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-23T12:07:23Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-07-23T13:40:33Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-23T16:12:26Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-07-23T20:47:16Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-07-23T21:20:26Z,Meat,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-07-24T01:34:34Z,Vegan,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-07-24T03:49:52Z,Vegan,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-24T12:36:10Z,Meat,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-24T13:33:49Z,Meat,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-24T14:37:20Z,Vegetarian,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-07-24T14:52:23Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-07-25T03:33:35Z,Meat,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-25T06:35:05Z,Vegan,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-25T15:56:06Z,Vegan,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-26T02:56:55Z,Gluten-free,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-07-26T10:02:51Z,Vegetarian,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-26T11:24:54Z,Meat,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-07-26T12:45:15Z,Gluten-free,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-26T15:54:28Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-26T18:05:12Z,Vegetarian,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-27T10:52:25Z,Meat,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-07-27T15:00:35Z,Vegan,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-27T17:34:17Z,Vegetarian,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-07-27T18:33:31Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-07-27T20:57:06Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-07-28T02:08:47Z,Meat,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-07-28T05:59:07Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-28T16:23:07Z,Vegan,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-28T17:09:29Z,Gluten-free,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-28T20:55:57Z,Vegan,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-07-29T03:16:43Z,Vegetarian,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-29T03:44:55Z,Meat,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-29T11:07:03Z,Gluten-free,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-29T12:54:11Z,Meat,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-29T13:54:52Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-29T16:44:42Z,Meat,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-07-29T22:17:11Z,Vegetarian,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-29T23:44:15Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-07-30T00:07:02Z,Vegan,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-07-30T03:44:43Z,Gluten-free,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-07-30T07:43:23Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-07-30T09:38:06Z,Gluten-free,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-07-30T12:47:40Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-07-30T13:42:17Z,Vegetarian,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-07-30T14:49:16Z,Vegan,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-07-30T16:04:23Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-07-31T15:46:28Z,Gluten-free,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-07-31T20:52:42Z,Gluten-free,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-07-31T22:51:22Z,Vegetarian,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-01T05:49:20Z,Gluten-free,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-01T10:04:57Z,Vegan,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-01T10:35:09Z,Vegan,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-01T11:19:25Z,Vegan,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-01T16:20:29Z,Gluten-free,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-02T14:39:48Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-02T19:08:20Z,Vegetarian,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-02T19:14:12Z,Vegetarian,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-03T03:09:29Z,Gluten-free,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-03T03:21:35Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-03T04:57:51Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-03T15:27:13Z,Vegetarian,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-03T19:55:06Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-04T01:11:39Z,Meat,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-04T01:46:41Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-04T07:46:00Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-04T10:13:25Z,Meat,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-04T12:54:08Z,Vegan,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-08-04T16:12:12Z,Vegetarian,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-04T21:38:28Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-05T10:06:25Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-08-05T17:36:28Z,Gluten-free,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-05T18:12:06Z,Vegetarian,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-06T02:09:13Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-06T03:48:29Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-06T06:28:52Z,Vegetarian,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-06T07:12:36Z,Vegetarian,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-06T12:20:26Z,Vegetarian,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-06T15:34:50Z,Gluten-free,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-06T19:57:38Z,Gluten-free,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-06T21:58:29Z,Gluten-free,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-07T03:14:34Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-07T05:56:32Z,Gluten-free,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-07T10:48:51Z,Meat,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-07T14:26:48Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-07T16:50:26Z,Meat,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-08-07T20:21:20Z,Gluten-free,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-08-07T23:38:23Z,Gluten-free,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-08T08:35:30Z,Meat,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-08T18:18:45Z,Meat,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-08T21:44:49Z,Meat,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-08-09T07:02:04Z,Vegetarian,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-09T07:10:00Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-08-09T20:48:16Z,Vegetarian,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-10T01:19:05Z,Gluten-free,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-10T09:17:46Z,Vegan,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-10T10:00:33Z,Vegetarian,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-10T19:55:34Z,Meat,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-11T04:12:04Z,Vegetarian,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-11T08:18:00Z,Gluten-free,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-11T12:17:54Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-11T14:16:10Z,Vegetarian,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-11T20:08:16Z,Vegetarian,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-11T21:57:23Z,Vegetarian,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-12T01:29:48Z,Meat,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-12T02:03:07Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-12T07:20:55Z,Vegetarian,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-12T11:55:00Z,Meat,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-12T17:54:04Z,Vegan,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-12T22:13:50Z,Meat,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-08-13T00:02:47Z,Vegetarian,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-08-13T01:36:46Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-13T02:19:19Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-13T04:52:54Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-13T06:30:24Z,Gluten-free,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-13T07:35:59Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-13T07:52:00Z,Gluten-free,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-13T10:57:39Z,Vegetarian,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-13T14:43:30Z,Vegan,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-14T01:43:33Z,Gluten-free,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-08-14T02:19:47Z,Gluten-free,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-14T03:45:10Z,Meat,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-08-14T08:54:40Z,Vegetarian,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-14T10:38:53Z,Gluten-free,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-14T13:09:34Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-14T15:00:41Z,Gluten-free,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-14T17:21:35Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-14T20:31:05Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-15T01:53:14Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-08-15T10:27:57Z,Vegan,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-15T11:34:46Z,Gluten-free,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-15T17:01:19Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-15T17:45:23Z,Gluten-free,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-15T21:20:52Z,Vegan,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-08-15T21:38:39Z,Vegetarian,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-16T04:42:35Z,Meat,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-16T05:40:25Z,Meat,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-16T08:30:57Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-16T09:16:27Z,Vegan,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-16T11:20:17Z,Gluten-free,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-08-16T12:30:37Z,Vegan,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-08-16T19:07:08Z,Meat,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-16T22:31:20Z,Gluten-free,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-08-17T01:01:15Z,Meat,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-17T09:18:49Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-17T14:21:36Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-08-17T14:34:57Z,Vegetarian,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-17T14:54:19Z,Gluten-free,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-08-17T23:06:46Z,Vegan,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-18T05:05:09Z,Vegetarian,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-18T06:23:31Z,Vegetarian,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-08-18T16:25:26Z,Vegetarian,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-08-18T18:17:37Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-18T18:54:05Z,Vegetarian,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-18T21:58:57Z,Gluten-free,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-19T04:04:16Z,Meat,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-08-19T05:36:43Z,Meat,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-19T06:08:13Z,Vegan,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-19T08:47:02Z,Gluten-free,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-08-19T08:57:59Z,Gluten-free,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-08-19T09:23:28Z,Gluten-free,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-08-19T09:55:59Z,Gluten-free,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-19T11:06:39Z,Vegan,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-19T13:38:07Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-19T17:33:57Z,Meat,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-19T17:34:09Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-20T00:50:03Z,Gluten-free,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-20T01:29:58Z,Gluten-free,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-08-20T11:58:45Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-20T13:26:58Z,Meat,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-20T13:48:59Z,Vegetarian,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-20T17:04:24Z,Meat,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-08-20T19:04:01Z,Vegan,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-20T22:25:42Z,Meat,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-20T23:20:38Z,Gluten-free,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-20T23:58:15Z,Vegetarian,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-21T09:05:54Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-21T17:34:15Z,Vegetarian,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-21T18:32:02Z,Vegan,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-22T00:15:27Z,Gluten-free,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-22T07:37:29Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-22T09:22:10Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-22T16:18:15Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-22T19:48:41Z,Vegan,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-08-22T20:46:48Z,Gluten-free,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-22T22:13:33Z,Vegetarian,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-24T00:40:05Z,Vegan,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-24T04:53:07Z,Gluten-free,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-08-24T21:36:25Z,Meat,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-24T22:07:39Z,Vegetarian,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-25T01:05:29Z,Vegetarian,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-25T14:19:28Z,Meat,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-25T15:19:06Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-25T22:07:19Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-26T03:38:29Z,Vegetarian,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-26T06:13:13Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-26T06:54:05Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-26T07:09:28Z,Gluten-free,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-26T08:41:42Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-26T10:00:16Z,Meat,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-26T10:57:56Z,Meat,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-26T17:50:44Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-26T21:24:59Z,Meat,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-27T02:58:00Z,Vegan,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-27T03:13:07Z,Meat,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-27T07:10:35Z,Meat,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-27T17:55:35Z,Meat,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-27T19:48:40Z,Vegan,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-27T21:17:49Z,Gluten-free,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-08-28T06:54:53Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-08-28T16:45:16Z,Gluten-free,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-28T17:31:36Z,Vegan,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-28T19:13:17Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-28T21:04:09Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-08-29T03:13:40Z,Vegetarian,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-08-29T08:55:35Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-08-29T13:31:48Z,Meat,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-08-29T14:05:20Z,Vegetarian,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-29T19:28:42Z,Vegan,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-08-30T07:37:09Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-30T10:23:14Z,Meat,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-08-30T15:47:26Z,Gluten-free,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-30T23:12:00Z,Gluten-free,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-08-31T06:31:44Z,Meat,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-08-31T13:21:16Z,Gluten-free,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-09-01T23:38:42Z,Vegetarian,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-02T01:33:30Z,Meat,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-02T02:52:08Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-09-02T13:37:45Z,Gluten-free,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-09-02T18:43:59Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-09-02T19:36:58Z,Meat,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-09-02T19:52:49Z,Meat,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-03T09:56:26Z,Gluten-free,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-09-03T14:39:06Z,Vegetarian,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-04T01:49:48Z,Gluten-free,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-09-04T03:23:40Z,Gluten-free,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-04T04:13:11Z,Vegetarian,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-04T17:00:09Z,Meat,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-09-04T17:54:08Z,Gluten-free,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-04T18:04:09Z,Vegetarian,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-09-04T19:46:03Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-04T22:09:49Z,Gluten-free,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-05T05:32:03Z,Gluten-free,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-09-05T06:49:39Z,Vegan,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-09-05T07:52:31Z,Vegan,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-09-05T08:52:30Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-05T16:33:06Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-05T18:23:11Z,Vegetarian,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-05T23:38:25Z,Vegan,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-09-06T14:10:44Z,Meat,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-09-06T20:03:53Z,Meat,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-07T06:42:10Z,Meat,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-07T09:02:58Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-07T10:53:11Z,Meat,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-09-07T23:06:38Z,Vegetarian,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-08T01:29:41Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-08T05:45:46Z,Gluten-free,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-08T06:07:05Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-09-08T06:09:33Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-08T11:03:48Z,Vegetarian,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-08T17:32:41Z,Vegan,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-09-08T20:16:35Z,Vegan,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-08T20:37:44Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-09T01:04:50Z,Vegetarian,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-09T04:42:27Z,Vegetarian,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-09T08:08:46Z,Meat,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-09-09T09:13:17Z,Meat,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-09T11:48:36Z,Gluten-free,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-09T12:05:42Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-09T14:41:50Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-09T19:51:05Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-09-10T03:08:29Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-10T07:22:22Z,Meat,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-09-10T09:28:43Z,Meat,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-09-10T16:38:30Z,Meat,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-09-10T17:48:56Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-09-11T01:05:29Z,Vegetarian,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-09-11T15:21:11Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-09-12T03:15:59Z,Vegetarian,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-12T03:49:05Z,Vegetarian,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-09-12T10:37:10Z,Vegetarian,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-12T12:24:16Z,Meat,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-12T16:39:04Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-12T17:28:14Z,Vegan,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-09-12T20:24:41Z,Gluten-free,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-12T20:29:02Z,Vegetarian,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-09-13T04:12:44Z,Gluten-free,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-09-13T05:56:52Z,Gluten-free,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-09-13T18:06:48Z,Meat,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-09-13T20:03:33Z,Vegan,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-13T22:05:28Z,Meat,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-09-14T05:15:39Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-14T06:13:37Z,Vegetarian,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-09-14T14:37:52Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-14T17:28:43Z,Vegetarian,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-09-14T20:44:26Z,Vegan,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-09-15T02:08:01Z,Vegetarian,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-15T04:25:46Z,Gluten-free,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-15T05:36:40Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-09-15T06:37:53Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-15T12:37:12Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-15T16:29:06Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-15T21:33:52Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-09-15T22:31:28Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-09-16T01:14:52Z,Vegetarian,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-16T06:51:44Z,Meat,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-09-16T14:00:30Z,Vegetarian,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-16T21:00:31Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-09-16T23:13:29Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-09-16T23:42:41Z,Meat,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-17T04:19:48Z,Vegetarian,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-09-17T05:37:52Z,Vegetarian,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-09-17T12:30:58Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-18T09:25:12Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-09-18T10:27:32Z,Vegan,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-18T19:02:55Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-18T22:16:12Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-09-18T23:03:41Z,Gluten-free,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-09-18T23:46:43Z,Vegetarian,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-19T04:46:48Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-19T22:09:43Z,Vegetarian,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-09-20T03:05:53Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-09-20T06:05:32Z,Gluten-free,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-20T13:08:43Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-20T17:16:53Z,Vegan,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-09-20T18:59:25Z,Gluten-free,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-20T20:06:32Z,Gluten-free,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-09-21T04:51:59Z,Gluten-free,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-21T17:46:56Z,Meat,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-09-21T22:57:13Z,Meat,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-09-21T23:49:18Z,Gluten-free,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-09-22T00:21:19Z,Vegan,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-09-22T08:37:57Z,Vegetarian,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-09-22T22:23:16Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-22T22:38:25Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-22T23:20:52Z,Meat,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-23T01:06:13Z,Vegan,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-09-23T04:12:00Z,Meat,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-09-23T12:38:10Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-23T13:24:53Z,Meat,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-09-23T20:07:17Z,Vegan,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-09-24T04:55:53Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-24T05:32:20Z,Gluten-free,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-24T11:31:59Z,Vegan,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-24T15:49:29Z,Vegetarian,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-09-24T22:30:02Z,Vegetarian,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-25T02:07:55Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-25T02:10:50Z,Meat,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-09-25T15:56:39Z,Gluten-free,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-25T16:01:59Z,Gluten-free,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-25T18:22:14Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-09-25T21:56:39Z,Meat,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-09-26T05:26:37Z,Vegan,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-26T05:33:09Z,Meat,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-26T09:03:58Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-26T11:39:22Z,Meat,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-09-26T21:55:13Z,Vegetarian,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-26T21:57:47Z,Vegan,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-09-27T01:49:09Z,Vegetarian,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-27T05:52:06Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-09-27T06:41:39Z,Gluten-free,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-09-27T10:03:21Z,Vegetarian,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-09-27T12:24:07Z,Vegetarian,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-09-27T14:58:21Z,Meat,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-27T16:33:31Z,Vegetarian,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-09-27T17:35:34Z,Meat,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-09-27T18:58:36Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-09-28T04:04:33Z,Meat,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-28T04:28:34Z,Gluten-free,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-28T05:33:50Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-09-28T08:15:44Z,Vegetarian,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-28T11:21:02Z,Vegan,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-28T16:14:15Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-28T19:12:33Z,Vegetarian,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-09-28T20:42:23Z,Meat,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-09-29T10:39:55Z,Vegetarian,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-09-29T11:43:14Z,Meat,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-29T13:37:18Z,Vegetarian,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-09-29T16:39:24Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-09-29T21:01:50Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-29T22:45:24Z,Vegan,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-09-29T23:29:52Z,Gluten-free,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-30T06:17:22Z,Meat,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-09-30T06:33:15Z,Vegan,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-09-30T11:16:51Z,Vegetarian,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-09-30T15:04:16Z,Vegan,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-09-30T16:33:01Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-09-30T23:22:22Z,Vegetarian,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-01T01:53:01Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-01T05:43:21Z,Gluten-free,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-01T07:16:08Z,Gluten-free,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-10-01T08:19:07Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-01T10:36:52Z,Meat,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-01T10:55:19Z,Vegetarian,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-01T15:59:21Z,Vegetarian,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-01T17:05:44Z,Gluten-free,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-10-02T05:53:29Z,Vegetarian,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-10-02T08:40:36Z,Gluten-free,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-02T11:03:42Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-02T16:06:51Z,Vegetarian,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-10-03T00:52:08Z,Vegan,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-10-03T01:10:07Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-10-03T01:26:23Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-10-03T03:05:35Z,Vegetarian,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-10-03T12:57:44Z,Meat,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-03T22:16:48Z,Vegetarian,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-10-04T05:43:25Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-04T13:18:59Z,Vegetarian,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-10-04T13:34:17Z,Meat,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-10-04T14:34:00Z,Vegan,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-04T21:58:13Z,Gluten-free,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-04T23:31:08Z,Vegetarian,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-05T02:27:35Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-05T11:00:51Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-05T15:29:27Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-10-05T15:48:50Z,Vegetarian,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-05T17:08:54Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-05T18:58:42Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-05T20:47:53Z,Meat,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-05T21:55:47Z,Vegan,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-06T05:17:09Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-06T05:40:58Z,Vegetarian,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-10-06T08:43:44Z,Vegan,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-06T09:56:45Z,Meat,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-06T17:32:29Z,Gluten-free,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-10-06T18:03:23Z,Vegan,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-10-06T22:11:48Z,Meat,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-10-07T10:51:44Z,Vegetarian,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-07T16:56:49Z,Meat,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-10-07T18:57:25Z,Meat,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-07T22:38:10Z,Vegetarian,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-08T17:41:52Z,Vegetarian,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-10-09T07:58:03Z,Meat,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-09T08:42:33Z,Vegetarian,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-09T09:15:33Z,Vegan,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-09T14:26:54Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-09T18:02:49Z,Vegetarian,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-09T18:06:03Z,Vegan,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-09T20:32:15Z,Vegetarian,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-09T22:11:16Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-10T03:30:03Z,Vegetarian,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-10-10T04:46:22Z,Vegetarian,Hamburg,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-10-10T08:12:32Z,Gluten-free,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-10T11:14:34Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-10T14:19:24Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-10-10T15:06:05Z,Gluten-free,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-10T18:07:06Z,Vegetarian,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-11T00:26:57Z,Vegetarian,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-10-11T03:19:47Z,Vegan,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-11T11:07:37Z,Vegetarian,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-10-11T14:38:50Z,Vegan,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-11T14:56:16Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-11T15:25:18Z,Gluten-free,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-10-11T18:22:11Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-10-11T19:33:50Z,Meat,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-12T03:54:33Z,Meat,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-12T10:21:37Z,Vegetarian,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-12T13:31:52Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-12T13:43:41Z,Vegan,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-12T22:59:47Z,Vegetarian,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-13T06:09:03Z,Vegan,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-10-13T07:03:27Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-13T17:46:52Z,Gluten-free,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-13T19:39:00Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-10-14T03:59:36Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-14T06:30:58Z,Vegetarian,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-10-15T09:53:43Z,Meat,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-15T10:15:33Z,Meat,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-10-15T19:52:57Z,Vegan,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-16T06:32:18Z,Vegetarian,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-16T06:46:29Z,Vegan,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-10-16T21:13:21Z,Vegan,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-10-17T11:54:18Z,Gluten-free,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-17T12:11:12Z,Meat,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-17T13:52:24Z,Vegetarian,Hamburg,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-17T17:18:49Z,Gluten-free,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-17T20:52:55Z,Vegetarian,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-18T01:44:25Z,Meat,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-18T06:04:18Z,Gluten-free,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-18T08:05:50Z,Meat,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-10-18T08:33:02Z,Vegetarian,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-18T14:45:58Z,Meat,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-18T17:12:12Z,Vegan,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-18T18:25:47Z,Meat,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-10-18T20:39:07Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-18T21:22:56Z,Vegetarian,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-10-18T23:50:08Z,Meat,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-19T01:53:25Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-10-19T04:02:49Z,Vegan,Munich,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-10-19T04:08:10Z,Vegan,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-19T13:19:25Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-19T20:20:38Z,Gluten-free,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-19T23:40:54Z,Vegetarian,Berlin,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-10-20T09:15:27Z,Vegetarian,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-20T17:05:02Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-10-20T18:38:18Z,Vegan,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-20T21:27:37Z,Meat,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-20T23:30:49Z,Vegan,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-10-21T02:30:50Z,Vegetarian,Berlin,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-21T06:29:54Z,Meat,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-21T16:07:59Z,Vegetarian,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-10-22T00:46:13Z,Meat,Munich,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-10-22T03:46:20Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-10-22T08:33:20Z,Vegetarian,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-10-22T10:21:43Z,Vegetarian,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-10-22T14:01:26Z,Meat,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-22T15:26:15Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-22T23:00:00Z,Meat,Munich,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-23T00:45:52Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-23T01:12:03Z,Gluten-free,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-10-23T08:48:07Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-10-23T12:33:08Z,Vegetarian,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-10-23T12:44:56Z,Vegetarian,Berlin,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-10-23T14:58:48Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-10-24T00:30:23Z,Vegetarian,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-10-24T04:51:19Z,Vegetarian,Hamburg,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-24T07:26:11Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-24T15:03:48Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-24T16:03:42Z,Vegetarian,Hamburg,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-24T19:28:30Z,Meat,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-10-25T00:52:37Z,Meat,Hamburg,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-10-25T15:43:48Z,Vegan,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-25T22:52:06Z,Vegetarian,Munich,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-26T04:43:53Z,Vegan,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-10-26T06:29:42Z,Vegetarian,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-10-26T10:36:55Z,Vegetarian,Berlin,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-10-26T11:59:56Z,Vegan,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-10-26T14:07:55Z,Vegetarian,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-10-26T16:02:49Z,Gluten-free,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-26T19:59:50Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-26T22:06:45Z,Vegetarian,Hamburg,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-10-27T02:41:16Z,Meat,Munich,cc6adc74-fe56-840c-9cd0-015948f2e774,Baked Ziti,"Cuisine Type (e.g. Italian, Mexican, Chinese)",4.23
+2024-10-27T03:14:55Z,Vegetarian,Berlin,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-27T10:51:14Z,Meat,Munich,fda8cf0b-a9ae-e2d8-ea5d-e421b37e1bc1,Spaghetti Carbonara,Snack,4.74
+2024-10-27T12:12:57Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-28T02:55:04Z,Meat,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-28T15:22:21Z,Vegetarian,Berlin,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-28T15:34:16Z,Vegetarian,Munich,5d0378fb-45ae-f69a-0c59-80668c414007,Quiche Lorraine,"Cuisine Type (e.g. Italian, Mexican, Chinese)",9.53
+2024-10-28T17:32:29Z,Vegetarian,Hamburg,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-28T18:56:55Z,Vegetarian,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-28T19:44:50Z,Gluten-free,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-28T21:13:28Z,Vegetarian,Munich,eb62fde4-4f43-c7f6-d323-0d0e4131ac17,Shrimp Pad Thai,Vegetarian,7.3
+2024-10-29T06:02:06Z,Gluten-free,Berlin,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-29T09:51:15Z,Gluten-free,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-10-29T14:33:44Z,Gluten-free,Hamburg,e284b559-6f65-1288-48f5-6353141553ee,Chicken Tikka Masala,Vegan,9.28
+2024-10-29T18:48:50Z,Vegetarian,Berlin,e5c05c25-c9b9-301d-f09b-e9c589403728,Stuffed Bell Peppers,Appetizer,8.84
+2024-10-29T21:41:59Z,Meat,Munich,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-10-29T22:46:10Z,Meat,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-10-30T03:55:41Z,Gluten-free,Berlin,493fa57d-3850-8773-442c-2b7afad83933,Caesar Salad,Side Dish,7.61
+2024-10-30T04:12:11Z,Vegetarian,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
+2024-10-30T12:44:52Z,Vegan,Munich,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-10-30T16:57:50Z,Vegan,Berlin,bae94eab-79e9-7e69-0699-f7b7263ff8b0,Beef Stroganoff,Dessert,5.6
+2024-10-30T20:07:13Z,Gluten-free,Hamburg,b5843967-cf48-5bf0-a5c9-170a1933e7a8,Fish Tacos,Main Course,11.71
+2024-10-30T22:30:45Z,Vegan,Hamburg,0eca4f84-43ab-656e-d14b-1fbd6acc525f,Grilled Salmon,Gluten-Free,11.51
